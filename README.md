@@ -82,7 +82,7 @@ I am always eager to connect with talented individuals, collaborate on meaningfu
 ## 📫 Connect with me
 
 * GitHub: [https://github.com/nhdotvn]
-* LinkedIn: [https://www.linkedin.com/in/hi%E1%BB%87p-l%C3%AA-ng%E1%BB%8Dc-17634038b/]
+* LinkedIn: [https://www.linkedin.com/in/le-ngoc-hiep-17634038b/]
 * Email: [lengochiep.working@gmail.com]
 
 ---
