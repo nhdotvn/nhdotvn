@@ -1,90 +1,81 @@
-# 👋 Hi, I'm Hiep Le
+<p align="left">
+  <strong>INFORMATION TECHNOLOGY · SAIGON UNIVERSITY</strong>
+</p>
 
-🎓 **Information Technology student at Saigon University**
-💡 Passionate about **Data, AI, and continuous learning**
-🚀 Always improving to create meaningful and impactful solutions
+# Hiep Le
+### Data Scientist & Data Engineer in Training · Ho Chi Minh City, Vietnam
 
----
-
-## 🌟 About Me
-
-I am an Information Technology student with a strong curiosity for discovering new ideas and continuously expanding my knowledge.
-
-I enjoy exploring complex problems and transforming data into meaningful insights. My main interests lie in **Data, Mathematics, and analytical thinking**, where I combine logical reasoning with creativity to build practical solutions.
-
-I am particularly passionate about working with data-related fields such as:
-
-* Data Analysis
-* Machine Learning
-* Natural Language Processing (NLP)
-* AI-powered applications
-
-I believe growth comes from stepping outside the comfort zone. I continuously challenge myself to adapt, improve, and become better every day in order to meet the evolving demands of the technology industry.
-
-I am always eager to connect with talented individuals, collaborate on meaningful projects, and learn knowledge that creates real-world impact.
+Turning raw data into real-world impact. I combine mathematical reasoning, engineering discipline, and intellectual curiosity to design scalable, intelligent data systems. Passionate about solving complex problems through data, machine learning, and distributed architectures.
 
 ---
 
-## 🧠 Interests
-
-* 📊 Data Science
-* 🤖 Artificial Intelligence
-* 📈 Machine Learning
-* 🧮 Mathematics & Statistics
-* 🗣️ Natural Language Processing
-* 🔍 Problem Solving
+## FOCUS
+📊 Data Science · Machine Learning  
+⚙️ Data Engineering · Data Pipelines  
+🧠 Artificial Intelligence · NLP Systems  
+📐 Mathematics · Statistics · Optimization  
 
 ---
 
-## 🛠️ Tech Stack (learning & using)
-
-### Programming
-
-* Python
-* SQL
-* JavaScript (basic)
-
-### AI / Data
-
-* Pandas
-* NumPy
-* Scikit-learn
-* PyTorch / TensorFlow (learning)
-
-### Tools
-
-* Git & GitHub
-* Docker
-* Jupyter Notebook
-* VS Code
+## LANGUAGES
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ---
 
-## 📚 Currently Learning
+## DATA & AI
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-* Machine Learning fundamentals
-* Deep Learning
-* NLP applications
-* Building AI-powered products
-* MLOps & deployment basics
-
----
-
-## 🎯 Goals
-
-* Become a strong Data / AI Engineer
-* Contribute to impactful real-world projects
-* Continuously improve problem-solving skills
-* Collaborate with talented developers
+📈 Exploratory Data Analysis (EDA)  
+🧩 Feature Engineering  
+🤖 Fundamental Deep Learning  
+📊 Data preprocessing & modeling  
 
 ---
 
-## 📫 Connect with me
+## INFRA & TOOLS
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Debezium](https://img.shields.io/badge/Debezium-000000?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-* GitHub: [https://github.com/nhdotvn]
-* LinkedIn: [https://www.linkedin.com/in/le-ngoc-hiep-17634038b/]
-* Email: [lengochiep.working@gmail.com]
+🔄 Data streaming & event-driven systems  
+📦 Containerization & environment reproducibility  
+🛠 Building scalable data pipelines  
 
 ---
 
-⭐ *Always curious. Always learning. Always improving.*
+## CORE
+🧠 Analytical thinking  
+📐 Math-driven reasoning  
+⚙️ Systems thinking mindset  
+📚 Continuous learner  
+🤝 Collaborative & communicative  
+🔍 Problem-solving oriented  
+
+---
+
+## CURRENT LEARNING
+📖 Machine Learning algorithms & optimization  
+📊 Statistical inference & probability  
+⚡ Distributed data processing  
+🧠 Deep Learning fundamentals  
+☁️ Data infrastructure & system design  
+
+---
+
+## GOAL
+Build expertise in **Data Science and Data Engineering**, contribute to impactful real-world projects, and continuously deepen knowledge in mathematics, machine learning, and scalable data systems.
+
+---
+
+## CONTACT
+📫 GitHub: [https://github.com/nhdot.vn]
+💼 LinkedIn: [(https://www.linkedin.com/in/le-ngoc-hiep/)]
+📧 Email: lengochiep.working@email.com
