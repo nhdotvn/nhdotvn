@@ -123,7 +123,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/nhdotvn/nhdotvn/stats-output/stats.svg" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=nhdotvn&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/nhdotvn/nhdotvn/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
   <img src="https://raw.githubusercontent.com/nhdotvn/nhdotvn/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
 </div>
 
