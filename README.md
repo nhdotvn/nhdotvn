@@ -18,14 +18,14 @@
 
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
-##
+
 
 <h1 align="center">👩‍💻 About Me</h1>
 <p align="center"> I am an AI/Machine Learning Engineer driven by the mathematical logic, probability, and statistics that power intelligent systems. <br>
  With a strong foundation in ML algorithms and data infrastructure, I focus on understanding the fundamental mechanics of code to build scalable.</p>
 
-##
 
+<h1 align="center">Tech Stack</h1>
 <p align="center">
   <p align="center">
  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" width="60"/>
@@ -65,7 +65,7 @@
 </p>
 </p>
 
-## GitHub Stats & Trophies
+<h1 align="center"> GitHub Stats & Trophies </h1>
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=nhdotvn&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="LE NGOC HIEP's GitHub Trophies"/>
 </p>
@@ -79,7 +79,8 @@
 </p>
 
 
-## Random Dev Quote
+<h1 align="center"> Random Dev Quote </h1>
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
