@@ -20,7 +20,7 @@
 
 ##
 
-<h1 align="center">👩‍💻  About Me</h1>
+<h1 align="center">👩‍💻How About Me</h1>
 <p align="center"> I am an AI/Machine Learning Engineer driven by the mathematical logic, probability, and statistics that power intelligent systems. <br>
  With a strong foundation in ML algorithms and data infrastructure, I focus on understanding the fundamental mechanics of code to build scalable.</p>
 
