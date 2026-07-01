@@ -25,7 +25,7 @@
  With a strong foundation in ML algorithms and data infrastructure, I focus on understanding the fundamental mechanics of code to build scalable.</p>
 
 
-<h1 align="center">Tech Stack</h1>
+<!-- <h1 align="center">Tech Stack</h1>
 <p align="center">
   <p align="center">
  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" width="60"/>
@@ -63,7 +63,7 @@
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/SQLite.svg" width="60"/>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" width="60"/>
 </p>
-</p>
+</p> -->
 
 <h1 align="center"> GitHub Stats & Trophies </h1>
 <p align="center">
