@@ -25,45 +25,6 @@
  With a strong foundation in ML algorithms and data infrastructure, I focus on understanding the fundamental mechanics of code to build scalable.</p>
 
 
-<!-- <h1 align="center">Tech Stack</h1>
-<p align="center">
-  <p align="center">
- <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" width="60"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" width="60"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg" width="60"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" width="60"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CLion-Dark.svg" width="60"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" width="60"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" width="60"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/FastAPI.svg" width="60"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="60"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="60"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GithubActions-Dark.svg" width="60"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GitLab-Dark.svg" width="60"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" width="60"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" width="60"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" width="60"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Kafka.svg" width="60"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Kubernetes.svg" width="60"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" width="60"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" width="60"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" width="60"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/OpenCV-Dark.svg" width="60"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" width="60"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" width="60"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="60"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/RabbitMQ-Dark.svg" width="60"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/StackOverflow-Dark.svg" width="60"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Supabase-Dark.svg" width="60"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ScikitLearn-Dark.svg" width="60"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TensorFlow-Dark.svg" width="60"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" width="60"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Redis-Dark.svg" width="60"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PyTorch-Dark.svg" width="60"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/SQLite.svg" width="60"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" width="60"/>
-</p>
-</p> -->
 
 <h1 align="center"> GitHub Stats & Trophies </h1>
 <p align="center">
